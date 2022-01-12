@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\4-9_Try_Catch_Ornek\4-9_Try_Catch_Ornek\bin\Debug\4-9_Try_Catch_Ornek.exe.config
+C:\Users\Can\Desktop\4-9_Try_Catch_Ornek\4-9_Try_Catch_Ornek\bin\Debug\4-9_Try_Catch_Ornek.exe
+C:\Users\Can\Desktop\4-9_Try_Catch_Ornek\4-9_Try_Catch_Ornek\bin\Debug\4-9_Try_Catch_Ornek.pdb
+C:\Users\Can\Desktop\4-9_Try_Catch_Ornek\4-9_Try_Catch_Ornek\obj\Debug\4-9_Try_Catch_Ornek.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\4-9_Try_Catch_Ornek\4-9_Try_Catch_Ornek\obj\Debug\4-9_Try_Catch_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\4-9_Try_Catch_Ornek\4-9_Try_Catch_Ornek\obj\Debug\4-9_Try_Catch_Ornek.exe
+C:\Users\Can\Desktop\4-9_Try_Catch_Ornek\4-9_Try_Catch_Ornek\obj\Debug\4-9_Try_Catch_Ornek.pdb
